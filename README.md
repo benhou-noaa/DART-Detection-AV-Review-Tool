@@ -9,5 +9,7 @@ Given this challenge, we developed the detection audio-visual review tool (DART)
 ## Current Work
 At present, we are working on expanding DART's data model to accomodate different tabular formats--this is achieved by having DART parse the specific numeric index of a file rather than hard-coded column names. Further, we are incorporating logic that allows for user-customizable specification of coding buttons so that both the display name and recorded code can be customized. It is our hope that DART can help bioacoustics programs address this challenge and hasten the adoption of AI in bioacoustics. 
 
+We plan to release this updated version soon so please follow along if you are interested in using DART!
+
 ## Publications
 Please see https://aisel.aisnet.org/amcis2024/sig_hci/sig_hci/13/ to learn more.
